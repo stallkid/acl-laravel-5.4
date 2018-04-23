@@ -1,7 +1,7 @@
 ### Installation
 * `git clone https://github.com/stallkid/acl-laravel-5.4.git`
 
-* `cd acl`
+* `cd acl-laravel-5.4`
 
 * `composer install`
 
